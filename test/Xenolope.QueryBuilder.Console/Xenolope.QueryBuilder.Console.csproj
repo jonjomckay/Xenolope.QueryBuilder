@@ -34,7 +34,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Xenolope.QueryBuilder\Xenolope.QueryBuilder.csproj">
+    <ProjectReference Include="..\..\src\Xenolope.QueryBuilder\Xenolope.QueryBuilder.csproj">
       <Project>{2009DCD1-DD20-4217-AC9A-D701ED2C6BDF}</Project>
       <Name>Xenolope.QueryBuilder</Name>
     </ProjectReference>
