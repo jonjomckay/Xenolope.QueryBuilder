@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xenolope.QueryBuilder", "Xenolope.QueryBuilder\Xenolope.QueryBuilder.csproj", "{2009DCD1-DD20-4217-AC9A-D701ED2C6BDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xenolope.QueryBuilder.Console", "Xenolope.QueryBuilder.Console\Xenolope.QueryBuilder.Console.csproj", "{6D377321-32A6-4984-A423-6118AB164C23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xenolope.QueryBuilder.Tests", "Xenolope.QueryBuilder.Tests\Xenolope.QueryBuilder.Tests.csproj", "{6CAF0D86-D0B5-4C53-9626-6D435E68F8CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2009DCD1-DD20-4217-AC9A-D701ED2C6BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2009DCD1-DD20-4217-AC9A-D701ED2C6BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2009DCD1-DD20-4217-AC9A-D701ED2C6BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2009DCD1-DD20-4217-AC9A-D701ED2C6BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CAF0D86-D0B5-4C53-9626-6D435E68F8CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CAF0D86-D0B5-4C53-9626-6D435E68F8CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CAF0D86-D0B5-4C53-9626-6D435E68F8CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CAF0D86-D0B5-4C53-9626-6D435E68F8CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D377321-32A6-4984-A423-6118AB164C23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D377321-32A6-4984-A423-6118AB164C23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D377321-32A6-4984-A423-6118AB164C23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D377321-32A6-4984-A423-6118AB164C23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

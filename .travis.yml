@@ -1,0 +1,5 @@
+language: csharp
+solution: Xenolope.QueryBuilder.sln
+script:
+  - xbuild /p:Configuration=Release Xenolope.QueryBuilder.sln
+  - mono packages/xunit.runner.console.*/tools/xunit.console.exe Xenolope.QueryBuilder.Tests/bin/Release/Xenolope.QueryBuilder.Tests.dll
